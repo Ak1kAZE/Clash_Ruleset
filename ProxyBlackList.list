@@ -1,0 +1,4 @@
+#排除代理域名
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,tapd.cn
+DOMAIN-SUFFIX,hxcy.moe
