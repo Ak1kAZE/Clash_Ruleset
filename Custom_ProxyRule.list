@@ -1,4 +1,5 @@
 #自定义走Clash代理的域名
+DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,yesno.wtf
 DOMAIN-SUFFIX,immtel.com
 DOMAIN-KEYWORD,notion
