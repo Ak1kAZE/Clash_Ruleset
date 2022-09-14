@@ -3,3 +3,9 @@ DOMAIN-SUFFIX,mihoyo.com
 DOMAIN-SUFFIX,tapd.cn
 DOMAIN-SUFFIX,hxcy.moe
 DOMAIN-SUFFIX,router.asus.com
+DOMAIN,assets.vrchat.com
+DOMAIN,files.vrchat.cloud
+DOMAIN,d348imysud55la.cloudfront.net
+DOMAIN,api.vrchat.cloud
+IP-CIDR,91.199.81.0/24
+DOMAIN,ns.photonengine.io
