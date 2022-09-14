@@ -1,15 +1,16 @@
 #排除代理域名
 
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,mihoyo.com
 DOMAIN-SUFFIX,tapd.cn
 DOMAIN-SUFFIX,hxcy.moe
 DOMAIN-SUFFIX,router.asus.com
-DOMAIN,assets.vrchat.com
-DOMAIN,files.vrchat.cloud
-DOMAIN,d348imysud55la.cloudfront.net
-DOMAIN,api.vrchat.cloud
-IP-CIDR,91.199.81.0/24
+DOMAIN-SUFFIX,vrchat.com
+DOMAIN-SUFFIX,vrchat.cloud
+DOMAIN-SUFFIX,cloudfront.net
 DOMAIN,ns.photonengine.io
+IP-CIDR,91.199.81.0/24
 IP-CIDR,10.30.225.6/32
 IP-CIDR,13.57.77.0/24
 IP-CIDR,37.58.80.0/24
