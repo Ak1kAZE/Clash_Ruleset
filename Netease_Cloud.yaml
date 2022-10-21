@@ -1,9 +1,15 @@
 proxies:
-  - name: 解锁云音乐
+  - name: 解锁云音乐1
     type: ss
     server: music.desperadoj.com
     port: 30001
     cipher: aes-128-gcm
     password: desperadoj.com_free_proxy_etg0
     udp: false
-    
+  - name: 解锁云音乐2
+    type: ss
+    server: music.desperadoj.com
+    port: 30003
+    cipher: aes-128-gcm
+    password: desperadoj.com_free_proxy_etg0
+    udp: false
