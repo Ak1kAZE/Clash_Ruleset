@@ -63,8 +63,6 @@ dns:
     - time2.google.com
     - time3.google.com
     - time4.google.com
-    - music.163.com
-    - "*.music.163.com"
     - "*.126.net"
     - musicapi.taihe.com
     - music.taihe.com
