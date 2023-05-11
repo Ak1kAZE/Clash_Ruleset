@@ -1,6 +1,7 @@
 #排除代理域名
 
 DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,shotgun-cls.mihoyo.com
 DOMAIN-SUFFIX,tapd.cn
 DOMAIN-SUFFIX,hxcy.moe
 DOMAIN-SUFFIX,router.asus.com
