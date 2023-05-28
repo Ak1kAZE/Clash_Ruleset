@@ -13,7 +13,9 @@ external-controller: 0.0.0.0:9090
 clash-for-android:
   append-system-dns: false
 profile:
-  tracing: true
+  store-selected: false
+  tracing: false
+  store-fake-ip: false
 dns:
   enable: true
   listen: 127.0.0.1:8853
