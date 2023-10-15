@@ -4,7 +4,6 @@ DOMAIN-SUFFIX,mihoyo.com
 DOMAIN-SUFFIX,shotgun-cls.mihoyo.com
 DOMAIN-SUFFIX,tapd.cn
 DOMAIN-SUFFIX,hxcy.moe
-DOMAIN-SUFFIX,router.asus.com
 DOMAIN-SUFFIX,nerdynerd.org
-DOMAIN-SUFFIX,yasd.royli.dev
-DOMAIN-SUFFIX,ak1kaze2023.tpddns.cn
+DOMAIN,yasd.royli.dev
+DOMAIN,ak1kaze2023.tpddns.cn
