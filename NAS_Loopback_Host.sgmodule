@@ -1,2 +1,5 @@
+#!name=NAS_Loopback_Host
+#!desc=更改Host路由，以内网访问NAS
+
 [Host]
 ak1kaze.x3322.net = 192.168.0.200
