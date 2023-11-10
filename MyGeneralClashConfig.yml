@@ -94,6 +94,7 @@ dns:
     - "*.ipv6.microsoft.com"
     - "*.*.xboxlive.com"
     - speedtest.cros.wr.pvp.net
+    -"*.x3322.net"
   nameserver:
     - https://223.6.6.6/dns-query
     - https://rubyfish.cn/dns-query
