@@ -119,3 +119,14 @@ dns:
       - +.googleapis.cn
       - +.googleapis.com
       - +.gvt1.com
+
+rule-providers:
+  adguard:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
+    path: ./ruleset/reject.yaml
+    interval: 86400
+
+rules:
+ - RULE-SET,BanAD,🛑 广告拦截
