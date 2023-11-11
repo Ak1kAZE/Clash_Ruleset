@@ -121,7 +121,7 @@ dns:
       - +.gvt1.com
 
 rule-providers:
-  adguard:
+  Adguard:
     type: http
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
@@ -129,4 +129,4 @@ rule-providers:
     interval: 86400
 
 rules:
- - RULE-SET,BanAD,🛑 广告拦截
+ - RULE-SET,Adguard,🛑 广告拦截
