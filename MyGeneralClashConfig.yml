@@ -878,6 +878,7 @@ cfw-bypass:
   - "*.zhimg.com"
   - "*.zhongsou.com"
   - "*.zhuihd.com"
+  - "*.x3322.net"
   - "localhost"
   - 127.*
   - 10.*
