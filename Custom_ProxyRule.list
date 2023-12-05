@@ -1,7 +1,6 @@
 #自定义走Clash代理的域名
 DOMAIN-SUFFIX,yesno.wtf
 DOMAIN-SUFFIX,immtel.com
-DOMAIN-KEYWORD,notion
 DOMAIN-SUFFIX,windy.com
 DOMAIN-SUFFIX,faster.buzz
 DOMAIN-SUFFIX,renzhe.cloud
