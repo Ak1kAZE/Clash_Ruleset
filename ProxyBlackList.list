@@ -8,5 +8,5 @@ DOMAIN-SUFFIX,nerdynerd.org
 DOMAIN,yasd.royli.dev
 DOMAIN-KEYWORD,ak1kaze
 DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,totheglory.im
-DOMAIN-SUFFIX,m-team.cc
+DOMAIN-KEYWORD,totheglory
+DOMAIN-KEYWORD,m-team
