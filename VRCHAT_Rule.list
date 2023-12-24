@@ -1,9 +1,9 @@
-DOMAIN,api.vrchat.cloud
-DOMAIN,pipeline.vrchat.cloud
-DOMAIN,ns.photonengine.io
 IP-CIDR,91.199.81.0/24
 IP-CIDR,216.120.180.0/24
 IP-CIDR,83.229.32.0/24
 DOMAIN,assets.vrchat.com
 DOMAIN,files.vrchat.cloud
 DOMAIN,d348imysud55la.cloudfront.net
+DOMAIN,api.vrchat.cloud
+DOMAIN,pipeline.vrchat.cloud
+DOMAIN,ns.photonengine.io
