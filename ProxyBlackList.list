@@ -1,6 +1,6 @@
 #排除代理域名
 
-DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-KEYWORD,mihoyo
 DOMAIN-SUFFIX,shotgun-cls.mihoyo.com
 DOMAIN-SUFFIX,tapd.cn
 DOMAIN-SUFFIX,hxcy.moe
