@@ -2,12 +2,11 @@
 #!desc=由geekdada维护的AdGuard广告屏蔽列表，每日自动更新
 
 [Rule]
-DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/adaway.txt,reject
-DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/annoyances-filter.txt,reject
-DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/base-filter.txt,reject
-DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/chinese-filter.txt,reject
-DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/dns-filter.txt,reject
-DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/neohosts-full.txt,reject
-DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/neohosts.txt,reject
-DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/social-media-filter.txt,reject
-
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/adaway.txt,reject
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/annoyances-filter.txt,reject
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/base-filter.txt,reject
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/chinese-filter.txt,reject
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/dns-filter.txt,reject
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/social-media-filter.txt,reject
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/tracking-protection-filter.txt,reject
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/neohosts.txt,reject
