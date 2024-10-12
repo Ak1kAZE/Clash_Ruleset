@@ -10,4 +10,3 @@ DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-s
 DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/neohosts-full.txt,reject-tinygif
 DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/neohosts.txt,reject-tinygif
 DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/social-media-filter.txt,reject-tinygif
-DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/tracking-protection-filter.txt,reject-tinygif
