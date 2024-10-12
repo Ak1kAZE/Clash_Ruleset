@@ -2,11 +2,11 @@
 #!desc=由geekdada维护的AdGuard广告屏蔽列表，每日自动更新
 
 [Rule]
-DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/adaway.txt,reject
-DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/annoyances-filter.txt,reject
-DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/base-filter.txt,reject
-DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/chinese-filter.txt,reject
-DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/dns-filter.txt,reject
-DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/social-media-filter.txt,reject
-DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/tracking-protection-filter.txt,reject
-DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/neohosts.txt,reject
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/adaway.txt,🛑 广告拦截,update-interval=86400
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/annoyances-filter.txt,🛑 广告拦截,update-interval=86400
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/base-filter.txt,🛑 广告拦截,update-interval=86400
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/chinese-filter.txt,🛑 广告拦截,update-interval=86400
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/dns-filter.txt,🛑 广告拦截,update-interval=86400
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/social-media-filter.txt,🛑 广告拦截,update-interval=86400
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/tracking-protection-filter.txt,🛑 广告拦截,update-interval=86400
+DOMAIN-SET,https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/neohosts.txt,🛑 广告拦截,update-interval=86400
