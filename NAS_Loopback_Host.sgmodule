@@ -2,4 +2,4 @@
 #!desc=更改Host路由，以内网访问NAS
 
 [Host]
-akikaze.synology.me = 192.168.0.200
+akikaze.i234.me = 192.168.0.200
