@@ -1,17 +1,6 @@
 #自定义走Clash代理的域名
 DOMAIN-SUFFIX,yesno.wtf
-DOMAIN-SUFFIX,immtel.com
-DOMAIN-SUFFIX,windy.com
-DOMAIN-SUFFIX,faster.buzz
-DOMAIN-SUFFIX,renzhe.cloud
-DOMAIN-SUFFIX,renzhesubconverter.com
-DOMAIN-SUFFIX,renzhecloud.com
-DOMAIN,knowledgebase.renzhecloud.link
-DOMAIN,status.renzhecloud.link
 DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,fuqing.cz
-DOMAIN-SUFFIX,creamdata.net
 DOMAIN-SUFFIX,mikanani.me
-DOMAIN-KEYWORD,booth
 DOMAIN-SUFFIX,topaz.chat
 DOMAIN-SUFFIX,vrcdn.live
