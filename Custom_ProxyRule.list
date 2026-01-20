@@ -1,7 +1,4 @@
 #自定义走Clash代理的域名
-DOMAIN-SUFFIX,yesno.wtf
-DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,topaz.chat
 DOMAIN-SUFFIX,vrcdn.live
-DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,sfeed.cc
