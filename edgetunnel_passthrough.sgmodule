@@ -1,0 +1,5 @@
+#!name=edgetunnel设置页面
+#!desc=edgetunnel的设置页面走直连
+
+[Rule]
+DOMAIN-SUFFIX,newwbeee.ccwu.cc,"🎯 全球直连"
