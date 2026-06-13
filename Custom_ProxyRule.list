@@ -1,5 +1,3 @@
 #自定义走Clash代理的域名
-DOMAIN-SUFFIX,topaz.chat
-DOMAIN-SUFFIX,vrcdn.live
 DOMAIN-SUFFIX,sfeed.cc
 DOMAIN-SUFFIX,nyaa.si
