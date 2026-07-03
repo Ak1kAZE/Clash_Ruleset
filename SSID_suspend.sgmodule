@@ -1,1 +1,7 @@
-suspend
+#!name=特定WiFi暂停
+#!desc=加入特定WiFi时，挂起Surge
+
+[SSID Setting]
+SSID:miHoYo-Public suspend=true
+SSID:NETGEAR_1303 suspend=true
+SSID:NETGEAR_1303-5G suspend=true
