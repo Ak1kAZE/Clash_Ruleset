@@ -1,0 +1,13 @@
+# =========================
+# Steam 本体（代理）
+# =========================
+
+DOMAIN,store.steampowered.com,PROXY
+DOMAIN,help.steampowered.com,PROXY
+DOMAIN,checkout.steampowered.com,PROXY
+
+DOMAIN-SUFFIX,steamcommunity.com,PROXY
+DOMAIN-SUFFIX,steampowered.com,PROXY
+DOMAIN-SUFFIX,steamstatic.com,PROXY
+DOMAIN-SUFFIX,steam-chat.com,PROXY
+DOMAIN-SUFFIX,steamgames.com,PROXY
