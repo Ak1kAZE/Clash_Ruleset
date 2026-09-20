@@ -4,3 +4,12 @@ DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,pbh-btn.com
+IP-CIDR,91.199.81.0/24,no-resolve
+IP-CIDR,216.120.180.0/24,no-resolve
+IP-CIDR,83.229.32.0/24,no-resolve
+DOMAIN,assets.vrchat.com
+DOMAIN,files.vrchat.cloud
+DOMAIN,d348imysud55la.cloudfront.net
+DOMAIN,api.vrchat.cloud
+DOMAIN,pipeline.vrchat.cloud
+DOMAIN,ns.photonengine.io
